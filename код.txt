@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<header>
+    <nav>
+    <!--!webStudio-->???????
+    <div class="logo"</div>WebStudio</div>   
+    <div class="text"
+
+        <h ref="#"><span>WebStudio</span></a>
+            <font color="blue">Web</font>
+
+        <li><a href="Студія">Студія</a></li>
+        <li><a ref="Портфоліо">Портфоліо</a></li>
+        <li><a ref="Контакти">Контакти</a></li>
+    </nav>  
+
+         <a href="mailto:">info@devstudio.com</a>
+         <a href="tel:+380961111111">+38 096 111 11 11</a>
+       
+</header>
+
+<main>
+<body>
+   <section1>
+    <h1>Ефективні рішення для вашого бізнесу</h1>  
+    <img src="./1ефект.jpg"  alt="dark background" width="1600"
+    <a><button type="button">Замовити послугу</button></a>
+   </section1>
+      
+
+   <section2>
+         <ul>УВАГА ДО ДЕТАЛЕЙ</ul>
+             <li>
+                <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+             </li>
+         <ul>ПУНКТУАЛЬНІСТЬ</ul>
+             <li>
+                <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+             </li>
+        <ul>ПЛАНУВАННЯ</ul>
+                <p>Так само консультація з широким активом значною мірою зумовлює.</p>
+        <ul>СУЧАСНІ ТЕХНОЛОГІЇ</ul>
+             <li>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</li>
+   </section2>
+    
+    <section3>
+        <h2>Чим ми займаємося</h2>
+
+        <img src="box 1.jpg" alt="man working on computer" width="370">
+        <img src="box 2.jpg" alt="woman tiping on telephon" width="370">
+        <img src="box 3.jpg" alt="man choosing the color on the tablet" width="370">
+    </section3>
+
+    <section4>
+         <h2>Наша команда</h2>
+
+         <img src="team card 1.jpg" alt="photo of Ігор Дем'яненко" width="270">
+         <img src="team card 2.jpg" alt="photo of Ольга Рєпіна" width="270">
+         <img src="team card 3.jpg" alt="photo of Микола Тарасов" width="270">
+         <img src="team card 4.jpg" alt="photo of Михайло Єрмаков" width="270">
+    </section4>
+    </body>
+    </main>
+
+    
+        <footer>
+
+            
+                <!--!webStudio-->???????
+                   <address>м.Київ, пр-т Лесі Українки, 26</address>
+                   <a href="mailto:">info@devstudio.com</a>
+                   <a href="tel:+380961111111">+38 096 111 11 11</a>
+                
+                
+        <img src="footer.jpg" alt="black background" width="231">
+
+
+        </footer>
+    
+</html>
